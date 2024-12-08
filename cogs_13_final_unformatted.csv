@@ -1,0 +1,157 @@
+Location,name (who recorded),on UCSD campus (y/n),date,time,female cashier (y/n),Group Size (#),"Payment Type (Contactless, Card, Cash)","Tip Type (Cash, Electronic, No-tip)",Interaction Time (seconds),"Order Type (dine-in, to-go)",Waited in Line (y/n)
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:06 PM,n,1,contactless,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:07 PM,n,1,contactless,electric,40,to-go,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:08 PM,n,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:09 PM,n,1,contactless,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:10 PM,n,1,contactless,no-tip,50,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:11 PM,n,1,contactless,no-tip,40,to-go,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:12 PM,y,1,contactless,no-tip,40,to-go,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:12 PM,y,1,contactless,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:13 PM,n,1,card,no-tip,50,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:15 PM,n,1,contactless,electric,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:15 PM,n,1,contactless,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:15 PM,n,1,contactless,electric,15,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:18 PM,y,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:19 PM,y,2,contactless,no-tip,15,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:19 PM,y,1,contactless,no-tip,15,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:20 PM,y,1,card,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:21 PM,y,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:21 PM,y,1,contactless,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:22 PM,y,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:23 PM,n,1,contactless,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:24 PM,n,1,card,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:26 PM,n,1,card,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:27 PM,y,2,contactless,no-tip,80,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:28 PM,y,2,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:28 PM,y,1,card,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:31 PM,n,2,card,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:32 PM,n,1,card,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:33 PM,n,1,card,no-tip,15,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:33 PM,n,1,contactless,no-tip,40,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:35 PM,n,1,contactless,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:36 PM,n,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:37 PM,n,1,contactless,no-tip,25,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:37 PM,n,1,contactless,no-tip,15,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:38 PM,n,1,card,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:38 PM,n,1,card,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:39 PM,y,1,contactless,no-tip,20,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:40 PM,y,2,card,no-tip,30,dine-in,n
+Fan Fan (Sixth College at UCSD),Alexander Zhou,y,12/4/24,7:41 PM,y,1,contactless,no-tip,25,dine-in,n
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:15PM,Y,2,contactless,electronic,34,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:16PM,Y,1,contactless,no-tip,32,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:18PM,Y,2,contactless,no-tip,30,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:20PM,Y,1,contactless,electronic,45,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:23PM,Y,1,contactless,no-tip,66,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:28PM,Y,2,contactless,no-tip,40,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:29PM,N,1,contactless,no-tip,68,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:33PM,N,1,contactless,no-tip,39,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:38PM,N,1,contactless,no-tip,85,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:39PM,Y,1,contactless,electronic,22,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:41PM,Y,1,contactless,electronic,15,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:42PM,N,1,contactless,no-tip,19,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:44PM,Y,1,contactless,electronic,12,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:46PM,Y,2,contactless,electronic,23,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:47PM,N,1,contactless,no-tip,16,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:49PM,Y,2,contactless,no-tip,25,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:51PM,N,1,contactless,no-tip,34,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:52PM,Y,1,contactless,no-tip,29,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:52PM,N,1,contactless,no-tip,21,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:53PM,Y,1,contactless,no-tip,94,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:54PM,N,2,contactless,electronic,94,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:55PM,N,1,contactless,electronic,32,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:55PM,Y,1,contactless,no-tip,29,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:56PM,N,4,contactless,electronic,182,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:58PM,N,1,contactless,electronic,39,dine-in,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,5:59PM,N,1,contactless,electronic,30,to-go,N
+Sweet Greens at UTC,Nikki (Pei-ling) Gao,n,12/5/2024,6:00PM,N,2,contactless,electronic,93,dine-in,N
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:29 PM,y,1,contactless,electronic,17,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:30 PM,y,1,contactless,electronic,14,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:30 PM,y,1,contactless,no-tip,13,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:31 PM,y,1,contactless,no-tip,17,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:32 PM,y,1,contactless,no-tip,19,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:34 PM,y,1,contactless,electronic,21,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:34 PM,y,1,contactless,no-tip,25,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:34 PM,y,1,contactless,no-tip,22,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:35 PM,y,1,card,electronic,17,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:36 PM,y,1,contactless,electronic,23,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:36 PM,y,1,contactless,no-tip,13,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:37 PM,y,1,contactless,no-tip,18,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:37 PM,y,1,contactless,electronic,27,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:38 PM,y,1,contactless,electronic,24,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:39 PM,y,1,contactless,no-tip,29,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:40 PM,y,1,contactless,electronic,14,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:40 PM,y,1,contactless,no-tip,15,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:40 PM,y,1,card,no-tip,16,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:40 PM,y,1,card,no-tip,19,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:41 PM,y,1,contactless,no-tip,22,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:42 PM,y,1,contactless,no-tip,13,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:42 PM,y,1,contactless,no-tip,24,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:43 PM,y,1,contactless,no-tip,23,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:45 PM,n,1,contactless,no-tip,37,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:45 PM,n,1,contactless,no-tip,28,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:46 PM,n,1,contactless,no-tip,29,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:47 PM,n,1,contactless,no-tip,25,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:47 PM,y,1,contactless,no-tip,21,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:47 PM,n,1,contactless,no-tip,18,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:50 PM,n,1,contactless,electronic,20,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:51 PM,n,1,contactless,electronic,14,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:52 PM,y,1,contactless,electronic,18,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:55 PM,y,1,contactless,no-tip,15,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:55 PM,n,1,contactless,no-tip,25,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:55 PM,n,1,card,no-tip,25,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:56 PM,y,1,contactless,no-tip,22,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:58 PM,y,1,contactless,electronic,31,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:59 PM,n,1,contactless,no-tip,22,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,4:59 PM,y,1,card,no-tip,19,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:02 PM,y,1,contactless,no-tip,34,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:02 PM,n,1,contactless,no-tip,31,dine-in,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:03 PM,n,1,contactless,no-tip,23,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:03 PM,y,1,contactless,no-tip,21,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:03 PM,y,1,contactless,no-tip,22,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:05 PM,y,1,contactless,no-tip,19,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:06 PM,y,1,contactless,no-tip,15,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:07 PM,n,1,contactless,no-tip,15,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:07 PM,y,1,card,electronic,29,to-go,n
+Panda Express (Price Center @ UCSD),Ellie Park,y,12/5/24,5:09 PM,y,1,contactless,electronic,36,to-go,n
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:10 PM,N,2,Apple pay (e-payment),"1 tipped, other did not",15,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:12 PM,N,1,Apple pay (e-payment),No-tip,26,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:16 PM,N,1,Card,Tipped (e-payment),23,to-go,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:20 PM,N ,1,Apple pay (e-payment),No-tip,10,Dine- in,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:25 PM,N,1,Card,No-tip,10,Dine-in,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:26 PM,N,1,Apple pay (e-payment),No-tip,15,Dine-in,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:34 PM,N,1,Apple pay (e-payment),Tipped (e-payment),10,Dine-in,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:38 PM,N,1,Apple pay (e-payment),No-tip,27,To-go,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:40 PM,N,1,Card,No-tip,35,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:40 PM,N,1,Apple pay (e-payment),Tipped (e-payment),13,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:42 PM,N,1,Card,No-tip,18,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:42 PM,N,1,Apple pay (e-payment),No-tip,15,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:45 PM,N,1,Apple pay (e-payment),Tipped (e-payment),31,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:47 PM,N,1,Card,No-tip,15,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:48 PM,N,1,Apple pay (e-payment),Tipped (e-payment),24,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:49 PM,N,1,Card,No-tip,13,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:50 PM,N,1,Apple pay (e-payment),No-tip,17,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:51 PM,N,1,Apple pay (e-payment),Tipped (e-payment),12,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:52 PM,N,1,Card,No-tip,15,Dine-in,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:54 PM,N,1,Apple pay (e-payment),Tipped (e-payment),20,To-go,N
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:55 PM,N,1,Card,No-tip,26,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:56 PM,N,1,Card,Tipped (e-payment),14,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:57 PM,N,3,"Card , rest did not get food",No-tip,19,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:58 PM,N,1,Apple pay (e-payment),Tipped (e-payment),16,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,1:59 PM,N,1,Apple pay (e-payment),Tipped (e-payment),11,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:00 PM,Y,1,Card,No-tip,15,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:02 PM,Y,1,Card,Tipped (e-payment),17,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:03 PM,Y,1,Card,No-tip,10,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:04 PM,Y,1,Apple pay (e-payment),No-tip,20,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:05 PM,Y,1,Apple pay (e-payment),No-tip,14,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:06 PM,Y,2,Apple pay (e-payment),"1 tipped, other did not",15,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:07 PM,Y,1,Apple pay (e-payment),No-tip,14,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:08 PM,Y,1,Apple pay (e-payment),Tipped (e-payment),23,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:09 PM,Y,2,Card, No-tip both,17,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:10 PM,Y,1,Apple pay (e-payment),Tipped (e-payment),15,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:11 PM,Y,1,Apple pay (e-payment),No-tip,13,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:12 PM,Y,1,Apple pay (e-payment),No-tip,18,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:13 PM,Y,1,Card,No-tip,20,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:14 PM,Y,1,Card,No-tip,15,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:15 PM,N,1,Apple pay (e-payment),No-tip,18,To-go,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:16 PM,Y,1,Apple pay (e-payment),Tipped (e-payment),14,Dine-in,Y
+Flavor Full (Price Center UCSD),Alexandro Merida,Y,12/4/24,2:17 PM,Y,1,Card,No-tip,10,To-go,Y
